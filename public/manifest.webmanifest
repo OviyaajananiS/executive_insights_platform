@@ -1,0 +1,9 @@
+{
+  "name": "Vantage Executive Intelligence",
+  "short_name": "Vantage",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f2",
+  "theme_color": "#153d36",
+  "description": "A focused business intelligence workspace for executive decision-making."
+}
